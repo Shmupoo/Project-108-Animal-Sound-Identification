@@ -1,0 +1,22 @@
+#heading {
+    color: black;
+}
+
+#header {
+    color: gold;
+}
+
+body {
+    background-color: white;
+    background-size: cover;
+}
+
+#footer {
+    position: fixed;
+    color:gold;
+    bottom: 0;
+    width:100%;
+    font-size: 20px;
+    background-color: black;
+    text-align: center;
+}
